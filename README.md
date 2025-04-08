@@ -49,5 +49,4 @@
 
 ---
 
-> 💡 *Đây là kho lưu trữ ✨ đặc biệt ✨ vì `README.md` sẽ hiển thị trực tiếp trên trang GitHub cá nhân của bạn!*
 
