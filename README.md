@@ -8,30 +8,18 @@
 - Thiết kế và quản trị website với WordPress
 - Tự động hóa và tối ưu quy trình phát triển phần mềm
 
-## 🌱 Hiện tại mình đang học
-- Nâng cao kỹ năng Flutter để phát triển ứng dụng mobile đa nền tảng
-- Triển khai REST API với Laravel và ASP.NET Core
-- Tối ưu SEO và bảo mật cho website WordPress
-- CI/CD cho các dự án PHP & .NET
-
 ## 💞️ Mình muốn cộng tác trong các dự án
 - Website/blog cá nhân, landing page bằng WordPress
 - Ứng dụng mobile với Flutter
 - Web app với Laravel hoặc ASP.NET Core
-- Các hệ thống quản lý đơn giản nhưng hiệu quả cho doanh nghiệp nhỏ
 
 ## 📫 Liên hệ với mình
 - 📧 Email: [example@email.com]
-- 🌐 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🌍 Website cá nhân: [https://your-portfolio.com](https://your-portfolio.com)
-
-## 😄 Đại từ nhân xưng
-- Anh ấy / He/Him
+- 🌐 Facebook: 
 
 ## ⚡ Fun fact
 - Mình đang định viết một plugin WordPress chỉ để đổi nền web theo tâm trạng mỗi ngày 🎨
 - Mình rất thích biến **cà phê ☕ thành code**, và tin rằng **dữ liệu là nguồn năng lượng mới của thế giới số!**
-
 ---
 
 ## 🛠 Kỹ năng
@@ -46,7 +34,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
 
