@@ -1,5 +1,3 @@
-![Chào mừng đến với GitHub của mình](https://raw.githubusercontent.com/VuHoangAnh2110/VuHoangAnh2110/main/banner.gif)
-
 # 👋 Xin chào, mình là **Vũ Hoàng Anh** (@VuHoangAnh2110)
 
 ## 👀 Mình quan tâm đến
