@@ -1,11 +1,5 @@
 # 👋 Xin chào, mình là **Vũ Hoàng Anh** (@VuHoangAnh2110)
 
-## 👀 Mình quan tâm đến
-- Lập trình web với PHP, Laravel, CodeIgniter, và ASP.NET Core
-- Ứng dụng di động với Flutter
-- Thiết kế và quản trị website với WordPress
-- Tự động hóa và tối ưu quy trình phát triển phần mềm
-
 ## 💞️ Mình muốn cộng tác trong các dự án
 - Website/blog cá nhân, landing page bằng WordPress
 - Ứng dụng mobile với Flutter
